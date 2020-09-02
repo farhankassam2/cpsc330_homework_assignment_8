@@ -1,4 +1,4 @@
-# hw8_f4l0b_w0k0b
+# hw8
 
 ## Submission Details
 
@@ -6,12 +6,10 @@ Please enter details of your submission here, per the [homework submission instr
 
 Basic Details:
 Student 1:
-Student Number: 30380159
 Name: Farhan Kassam
 CWL: farhank1
 
 Student 2:
-Student Number: 60250157
 Name: Raghav Thakur
 CWL: thakur3 <br>
 [Here's the link to my report](./hw8.ipynb) <br>
