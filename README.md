@@ -38,10 +38,8 @@ Please enter details of your submission here, per the [homework submission instr
 **Basic Details:** <br>
 **Student 1:** <br>
 Name: Farhan Kassam <br>
-CWL: farhank1 <br> <br>
 **Student 2:** <br>
 Name: Raghav Thakur <br>
-CWL: thakur3 <br><br>
 [Here's the link to my report](./hw8.ipynb) <br>
 [Here's the link to my blog post for exercise 3](./exercise3_blog_post.ipynb)
 <br><br>
