@@ -39,7 +39,8 @@ Please enter details of your submission here, per the [homework submission instr
 **Student 1:** <br>
 Name: Farhan Kassam <br>
 **Student 2:** <br>
-Name: Raghav Thakur <br>
+Name: Raghav Thakur <br><br><br>
+
 [Here's the link to my report](./hw8.ipynb) <br>
 [Here's the link to my blog post for exercise 3](./exercise3_blog_post.ipynb)
 <br><br>
